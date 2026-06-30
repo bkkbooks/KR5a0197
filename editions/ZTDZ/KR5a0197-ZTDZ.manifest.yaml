@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5a0197/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5a0197/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 雷霆玉樞宥罪法懺
+  date: '2015-08-28 23:40:48.250449'
+  source:
+    repository: kanripo
+    path: KR5a0197
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0197_000-ZTDZ.yaml, hash: 'sha256:4593acc77edc8d2516dff7ecccfe0a43b9c345331a47900f7a98b1575324058a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0197_000-ZTDZ.markers.yaml, hash: 'sha256:b5d7a0af3d218597b1afd7b8235ae6be841123585910a95cd2fd89b00e2d32b7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0197_SJB_000-030552c
+    span:
+    - body
+    - 0
+    - 1569
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:c23d2a5a4801a7d57479f5eec98dfaad3cd79e25eb6fe1462411ea78dfb94132
